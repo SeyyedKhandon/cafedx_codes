@@ -1,0 +1,59 @@
+/**
+ * Vertical centering
+ */
+* {
+  margin: 0;
+}
+body {
+  background: #fb3;
+  font-family: cursive;
+  font-size: 90%;
+}
+
+.alert {
+  background: #655;
+  padding: 20px;
+  color: white;
+}
+/* 1.Absolute positioning method */
+/* .box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+/* 2.Viewport unit method */
+/* .box {
+  width: 21em;
+  margin: 50vh auto 0;
+  transform: translateY(-50%);
+  box-sizing: border-box;
+} */
+
+/*3. Flexbox with margin*/
+body {
+  display: flex;
+  min-height: 100vh;
+}
+.box {
+  margin: auto;
+}
+
+/*4. Flexbox pure*/
+/* body {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+} */
+
+/*5. Flexbox pure + align-self*/
+/* body {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
+.box {
+  align-self: center;
+} */
