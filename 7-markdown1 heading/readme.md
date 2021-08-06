@@ -30,3 +30,31 @@ Try to put a blank line before...
 # Heading
 
 ...and after a heading.
+
+---------- Bold ----------
+
+This is **Bold** text.
+This is B**ol**d text.
+
+This is __Alternative Bold__ text.
+
+This is <strong>Bold</strong>.	
+
+---------- _Italic_ ----------
+
+This is *Italic*. 
+
+This is _Alternative Italic_ text.
+
+
+This is <em>Italic</em>. 
+
+---------- Bold ----------
+
+***Bold & Italic***
+
+<strong>
+   <em>
+      Bold & Italic
+   </em>
+</strong>
