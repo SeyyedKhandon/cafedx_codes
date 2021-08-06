@@ -1,0 +1,9 @@
+{
+  "errorLens.statusBarColorsEnabled": true,
+  "errorLens.statusBarMessageEnabled": true,
+  "errorLens.statusBarMessageType": "closestProblem",
+  "errorLens.followCursor": "closestProblem",
+  "errorLens.gutterIconsEnabled": true,
+  "errorLens.scrollbarHackEnabled": true,
+  "errorLens.fontStyleItalic": true
+}
