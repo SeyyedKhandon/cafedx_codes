@@ -1,3 +1,5 @@
+# CH1: Headings
+
 ---------- Headings ----------
 
 # Heading 1
@@ -31,6 +33,9 @@ Try to put a blank line before...
 
 ...and after a heading.
 
+
+# CH2: Bold & italic
+
 ---------- Bold ----------
 
 This is **Bold** text.
@@ -58,3 +63,5 @@ This is <em>Italic</em>.
       Bold & Italic
    </em>
 </strong>
+
+
