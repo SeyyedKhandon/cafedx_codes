@@ -64,4 +64,41 @@ This is <em>Italic</em>.
    </em>
 </strong>
 
+------------ Blockquotes ----------
 
+Try to put a blank line before...
+
+> This is Blockquotes
+
+...and after a blockquote.	
+
+
+> Blockquotes 1
+> 
+> Blockquotes 2
+
+> This is Blockquotes
+>
+>> Nested Blockquotes
+
+
+> What we've learned is:
+>
+> ###### Heading
+>
+> **Bold**
+>
+> *Italic*
+
+<blockquote>
+This is 
+Blockquotes.
+</blockquote>
+
+---------- Paragraphs ----------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+</p>
